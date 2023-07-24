@@ -73,11 +73,11 @@ crashlytics-build.properties
 
 
 # Added for VRChat and Bakery
-/[Aa]ssets/**/[Ii]gnore
-/[Aa]ssets/**/[Ii]gnore.meta
-/[Aa]ssets/[Uu]donSharp/[Uu]donSharp[Ss]ettings.asset
-/[Aa]ssets/[Uu]donSharp/[Uu]donSharp[Ss]ettings.asset.meta
-/[Aa]ssets/[Bb]akery/*
-/[Aa]ssets/[Ee]ditor/x64/[Bb]akery/*
-/[Aa]ssets/[Bb]akery.meta
-/[Aa]ssets/[Ee]ditor/x64/[Bb]akery.meta
+[Aa]ssets/**/[Ii]gnore
+[Aa]ssets/**/[Ii]gnore.meta
+[Aa]ssets/[Uu]donSharp/[Uu]donSharp[Ss]ettings.asset
+[Aa]ssets/[Uu]donSharp/[Uu]donSharp[Ss]ettings.asset.meta
+[Aa]ssets/[Bb]akery/*
+[Aa]ssets/[Ee]ditor/x64/[Bb]akery/*
+[Aa]ssets/[Bb]akery.meta
+[Aa]ssets/[Ee]ditor/x64/[Bb]akery.meta
