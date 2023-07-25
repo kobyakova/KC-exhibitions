@@ -1,7 +1,6 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
-# Get latest from: https://github.com/UdonVR/VRchat-gitignore/blob/main/.gitignore
-# Modification of: https://github.com/github/gitignore/blob/master/Unity.gitignore
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /[Ll]ibrary/
 /[Tt]emp/
@@ -10,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[..]Idea/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -68,8 +68,38 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treaming[Aa]ssets/aa.meta
-/[Aa]ssets/[Ss]treaming[Aa]ssets/aa/*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Asset ignoring
+*.asset
+*.json
+*.cs
+ProjectVersion.txt
+*.meta
+*.asmdef
+
+# Include
+!Assets/**
+
+# VRChat related folder to be ignored
+Assets/Udon/
+Assets/VRChat Examples/
+Assets/VRCSDK
+
+# Popular editor scripts to be ignored, do not make your udon scripts here
+Assets/Samples/
+Assets/Bakery/
+Assets/Editor/
+Assets/Magic Light Probes/
+Assets/UdonSharp/
+Assets/Gizmos/UdonSharp/
+Assets/CyanTrigger
+Assets/CyanTriggerExamples
+Assets/VRWorldToolkit/
+Assets/Udon Starter Kit
+Assets/USK Resources
+Assets/VRCBilliardsCE
 
 
 # Added for VRChat and Bakery
