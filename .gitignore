@@ -86,6 +86,7 @@ ProjectVersion.txt
 Assets/Udon/
 Assets/VRChat Examples/
 Assets/VRCSDK
+Assets/UdonSharp.meta
 
 # Popular editor scripts to be ignored, do not make your udon scripts here
 Assets/Samples/
@@ -101,6 +102,13 @@ Assets/Udon Starter Kit
 Assets/USK Resources
 Assets/VRCBilliardsCE
 
+Packages/com.vrchat.core.vpm-resolver
+
+
+/*/
+!com.vrchat.core.*/
+
+
 # Added for VRChat and Bakery
 /[Aa]ssets/**/[Ii]gnore
 /[Aa]ssets/**/[Ii]gnore.meta
@@ -110,3 +118,6 @@ Assets/VRCBilliardsCE
 /[Aa]ssets/[Ee]ditor/x64/[Bb]akery/*
 /[Aa]ssets/[Bb]akery.meta
 /[Aa]ssets/[Ee]ditor/x64/[Bb]akery.meta
+Packages/com.vrchat.core.vpm-resolver/
+Assets/UdonSharp.meta
+
