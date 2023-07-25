@@ -1,22 +1,21 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
-# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-[..]Idea/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-[Mm]emoryCaptures/
+/[Mm]emoryCaptures/
 
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-[Aa]ssets/**/*.meta
+# Recordings can get excessive in size
+/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -60,6 +59,7 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+*.app
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -71,47 +71,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Asset ignoring
-*.asset
-*.json
-*.cs
-ProjectVersion.txt
-*.meta
-*.asmdef
-
-# Include
-!Assets/**
-
-# VRChat related folder to be ignored
-Assets/Udon/
-Assets/VRChat Examples/
-Assets/VRCSDK
-
-# Popular editor scripts to be ignored, do not make your udon scripts here
-Assets/Samples/
-Assets/Bakery/
-Assets/Editor/
-Assets/Magic Light Probes/
-Assets/UdonSharp/
-Assets/Gizmos/UdonSharp/
-Assets/CyanTrigger
-Assets/CyanTriggerExamples
-Assets/VRWorldToolkit/
-Assets/Udon Starter Kit
-Assets/USK Resources
-Assets/VRCBilliardsCE
-Assets/UdonSharp.meta
-Packages/
-Assets/SerializedUdonPrograms
-Assets/SerializedUdonPrograms.meta
-
-
-# Added for VRChat and Bakery
-[Aa]ssets/**/[Ii]gnore
-[Aa]ssets/**/[Ii]gnore.meta
-[Aa]ssets/[Uu]donSharp/[Uu]donSharp[Ss]ettings.asset
-[Aa]ssets/[Uu]donSharp/[Uu]donSharp[Ss]ettings.asset.meta
-[Aa]ssets/[Bb]akery/*
-[Aa]ssets/[Ee]ditor/x64/[Bb]akery/*
-[Aa]ssets/[Bb]akery.meta
-[Aa]ssets/[Ee]ditor/x64/[Bb]akery.meta
+.idea
+/Assets/GestureManager
+/Assets/VRCSDK*
+/Assets/Udon*
+/Assets/SerializedUdon*
+/Assets/VRChat Examples*
+/Packages/com.vrchat*
