@@ -7,9 +7,9 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -89,3 +89,6 @@ Packages/vpm-manifest.json
 Assets/UdonSharp.meta
 Assets/SerializedUdonPrograms.meta
 Assets/SerializedUdonPrograms
+Assets/Examples and Samples Have Moved.txt
+Assets/Examples and Samples Have Moved.txt.meta
+Assets/UdonSharp 1.meta
