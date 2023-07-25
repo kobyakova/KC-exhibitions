@@ -86,3 +86,6 @@ ProjectSettings/
 Packages/manifest.json
 Packages/packages-lock.json
 Packages/vpm-manifest.json
+Assets/UdonSharp.meta
+Assets/SerializedUdonPrograms.meta
+Assets/SerializedUdonPrograms
