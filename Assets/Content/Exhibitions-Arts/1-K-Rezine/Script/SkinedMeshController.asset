@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SkinedMeshController
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 50cf714d49bcf7d4cbd0c78ea669cc81,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: e3fa990c55d97c14da14de2c15cc9a23,
     type: 2}
   udonAssembly: 
   assemblyError: 
