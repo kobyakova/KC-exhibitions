@@ -1,8 +1,11 @@
 fileFormatVersion: 2
-guid: 0b7f1d3b9bac52c4ab5762b89a3fc0bd
+guid: 3ecc470a0b1a40444b1f7c1e2ab48e04
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -2459118390804056071
+    second: Kapkan.001|ArmatureAction
   externalObjects: {}
   materials:
     materialImportMode: 1
