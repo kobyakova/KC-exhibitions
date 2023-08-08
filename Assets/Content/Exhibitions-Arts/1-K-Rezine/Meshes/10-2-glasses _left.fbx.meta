@@ -1,9 +1,20 @@
 fileFormatVersion: 2
-guid: 0b7f1d3b9bac52c4ab5762b89a3fc0bd
+guid: 295502aaf8616174198ee07b6184d814
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: 2786727048984995423
+    second: glasses _left|glasses _leftAction
+  - first:
+      74: 1864451960467411328
+    second: glasses _left|glasses _rightAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glasses_mat.001
+    second: {fileID: 2100000, guid: 15fc1da60687c3646ae98d8250b730f3, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -34,15 +45,15 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importCameras: 0
+    importLights: 0
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -90,7 +101,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
