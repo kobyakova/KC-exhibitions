@@ -41,7 +41,7 @@ public class ShprotsInterackt : UdonSharpBehaviour
         {
 
             Vector3 dist = this.transform.position - _localPl.GetPosition();
-            Debug.Log(dist.magnitude);
+            //Debug.Log(dist.magnitude);
             if (dist.magnitude > workLenght)
             {
                 anim.SetBool("Include", false);
