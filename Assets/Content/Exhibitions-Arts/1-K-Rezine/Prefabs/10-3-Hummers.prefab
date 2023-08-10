@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1135968401998614407}
   - component: {fileID: 1135968401998614400}
   m_Layer: 0
-  m_Name: 10-3-Hummers
+  m_Name: Hummers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -51,7 +51,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0396bd5e034f63740b4e37517dade5b8, type: 2}
+  - {fileID: 2100000, guid: 15fc1da60687c3646ae98d8250b730f3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
