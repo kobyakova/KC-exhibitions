@@ -8,6 +8,7 @@ Shader "StecilRead"
 		_TextureAlbedo("Texture Albedo", 2D) = "white" {}
 		_Metallic("Metallic", Range( 0 , 1)) = 0
 		_Smooth("Smooth", Range( 0 , 1)) = 0
+		_Color("Color",	Color) = (1.0, 0.6, 0.6, 1.0)
 		[HideInInspector] _texcoord( "", 2D ) = "white" {}
 		[HideInInspector] __dirty( "", Int ) = 1
 	}
@@ -34,11 +35,12 @@ Shader "StecilRead"
 		uniform float4 _TextureAlbedo_ST;
 		uniform float _Metallic;
 		uniform float _Smooth;
+		fixed4 _Color;
 
 		void surf( Input i , inout SurfaceOutputStandard o )
 		{
 			float2 uv_TextureAlbedo = i.uv_texcoord * _TextureAlbedo_ST.xy + _TextureAlbedo_ST.zw;
-			o.Albedo = tex2D( _TextureAlbedo, uv_TextureAlbedo ).rgb;
+			o.Albedo = (tex2D( _TextureAlbedo, uv_TextureAlbedo ).rgb)*_Color;
 			o.Metallic = _Metallic;
 			o.Smoothness = _Smooth;
 			o.Alpha = 1;
