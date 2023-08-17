@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ShprotsInterackt
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 59b0ea7551b4a7e4587aac89e1047535,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 04d53613612221248a2a561e86307e65,
     type: 2}
   udonAssembly: 
   assemblyError: 
