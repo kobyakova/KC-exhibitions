@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 3.5-TeleportByCollision
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: d6f4499f280e4424ea9de2a2e27687dd,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: e868ceb781fa8824d9a52f4f3652dd23,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Target\r\n    .export PostProcTransit\r\n   
     \r\n    onPlayerTriggerEnterPlayer: %VRCSDKBaseVRCPlayerApi, null\r\n    __Boolean_0:

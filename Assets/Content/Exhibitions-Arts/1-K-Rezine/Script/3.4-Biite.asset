@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 3.4-Biite
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: fc8d6a08a00344544a84f851bbfc46f0,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 2d2066b0285b2b04e87048a4b7900144,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Anim\r\n    .export Kapkan\r\n   
     .export Range\r\n    \r\n    __Boolean_0: %SystemBoolean, null\r\n    __Single_0:
@@ -59,7 +59,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
     - fullName: Get_Variable
       uid: b1e20688-2f68-4d69-91f1-440b0bfde6ba
-      position: {x: 404.60007, y: 339.00003}
+      position: {x: 379.8725, y: 221.2975}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -70,7 +70,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: UnityEngineAnimator.__SetBool__SystemString_SystemBoolean__SystemVoid
       uid: 3eee01fa-b280-4495-b332-3ec3a8ceab39
-      position: {x: 772, y: 177}
+      position: {x: 820.96765, y: 146.44751}
       nodeUIDs:
       - b1e20688-2f68-4d69-91f1-440b0bfde6ba|0
       - 
@@ -87,7 +87,7 @@ MonoBehaviour:
           PublicKeyToken=b77a5c561934e089|True
     - fullName: UnityEngineAnimator.__SetBool__SystemString_SystemBoolean__SystemVoid
       uid: a1fafad5-8578-41a8-8ca8-19dbcb0e09fd
-      position: {x: 1074, y: 182}
+      position: {x: 1112.7228, y: 269.28503}
       nodeUIDs:
       - b1e20688-2f68-4d69-91f1-440b0bfde6ba|0
       - 
