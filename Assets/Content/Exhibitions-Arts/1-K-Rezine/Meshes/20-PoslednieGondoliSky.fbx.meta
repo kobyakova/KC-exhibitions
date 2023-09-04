@@ -12,7 +12,22 @@ ModelImporter:
   - first:
       74: 8638443992898574131
     second: 20-PoslednieGondoliSkyBone|ArmatureAction.002
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20-PoslednieGondoliPic_mat
+    second: {fileID: 2100000, guid: b5c19df1514803141adc9b327139f9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20-PoslednieGondoliSky_mat
+    second: {fileID: 2100000, guid: 7e9305b6ae012ff459a88622558b305a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20-PoslednieGondoliWater_mat
+    second: {fileID: 2100000, guid: 2b38169233eb31d49b877849e4cc1aeb, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

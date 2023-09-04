@@ -6,6 +6,9 @@ ModelImporter:
   - first:
       74: -6588641848321586813
     second: 20-PoslednieGondoliPicBone|ArmatureAction.001
+  - first:
+      74: -7020309693451620300
+    second: 20-PoslednieGondoliPicBone|20-PoslednieGondoliSkyExit_boneAction
   externalObjects:
   - first:
       type: UnityEngine:Material
