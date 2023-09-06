@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: AnimPlay
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 846f4aa6544d16f4492c6eb957b34b27,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 9e268da1d0507f24fb6e6c6cd16d1430,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export anim\r\n    \r\n    __instance_0:
     %UnityEngineAnimator, null\r\n    __name_0: %SystemString, null\r\n    __value_0:
