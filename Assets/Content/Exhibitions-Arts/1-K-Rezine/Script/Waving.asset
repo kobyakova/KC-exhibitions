@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Waving
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 96ee948d049546841ada3f7f41227048,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 8c6b5fb4574336245b52ed8e49d3af6f,
     type: 2}
   udonAssembly: 
   assemblyError: 
