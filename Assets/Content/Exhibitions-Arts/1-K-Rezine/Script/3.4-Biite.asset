@@ -12,23 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 3.4-Biite
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: fc8d6a08a00344544a84f851bbfc46f0,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 8c942b2afa1950a4c8c034ed6b8cc537,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Anim\r\n    .export Kapkan\r\n   
-    .export Range\r\n    \r\n    __Boolean_0: %SystemBoolean, null\r\n    __Single_0:
-    %SystemSingle, null\r\n    __Single_1: %SystemSingle, null\r\n    __min_0: %SystemSingle,
-    null\r\n    __max_0: %SystemSingle, null\r\n    __instance_0: %UnityEngineAnimator,
-    null\r\n    __stateName_0: %SystemString, null\r\n    Anim: %UnityEngineAnimator,
-    null\r\n    Kapkan: %UnityEngineBoxCollider, null\r\n    Range: %SystemSingle,
+    \r\n    __instance_0: %UnityEngineAnimator, null\r\n    __stateName_0: %SystemString,
+    null\r\n    Anim: %UnityEngineAnimator, null\r\n    Kapkan: %UnityEngineBoxCollider,
     null\r\n\r\n.data_end\r\n\r\n.code_start\r\n\r\n    .export _onPlayerTriggerEnter\r\n   
-    \r\n    _onPlayerTriggerEnter:\r\n    \r\n        PUSH, __min_0\r\n        PUSH,
-    __max_0\r\n        PUSH, __Single_0\r\n        EXTERN, \"UnityEngineRandom.__Range__SystemSingle_SystemSingle__SystemSingle\"\r\n       
-    PUSH, __Single_0\r\n        PUSH, Range\r\n        PUSH, __Boolean_0\r\n       
-    EXTERN, \"SystemSingle.__op_LessThan__SystemSingle_SystemSingle__SystemBoolean\"\r\n       
-    PUSH, __Boolean_0\r\n        JUMP_IF_FALSE, 0x00000084\r\n        PUSH, Anim\r\n       
-    PUSH, __instance_0\r\n        COPY\r\n        PUSH, __instance_0\r\n        PUSH,
-    __stateName_0\r\n        EXTERN, \"UnityEngineAnimator.__Play__SystemString__SystemVoid\"\r\n       
-    JUMP, 0x00000084\r\n        JUMP, 0xFFFFFFFC\r\n    \r\n\r\n.code_end\r\n"
+    \r\n    _onPlayerTriggerEnter:\r\n    \r\n        PUSH, Anim\r\n        PUSH,
+    __instance_0\r\n        COPY\r\n        PUSH, __instance_0\r\n        PUSH, __stateName_0\r\n       
+    EXTERN, \"UnityEngineAnimator.__Play__SystemString__SystemVoid\"\r\n        JUMP,
+    0xFFFFFFFC\r\n    \r\n\r\n.code_end\r\n"
   assemblyError: 
   graphData:
     name: 
@@ -153,77 +146,8 @@ MonoBehaviour:
       position: {x: 78.45498, y: 352.7625}
       nodeUIDs: []
       flowUIDs:
-      - bdacd33b-0458-421c-8536-8fe0dfc78ca8
-      nodeValues: []
-    - fullName: UnityEngineRandom.__Range__SystemSingle_SystemSingle__SystemSingle
-      uid: 40d1e311-8c02-4189-9e9b-b0f2dddc7412
-      position: {x: -23, y: 621}
-      nodeUIDs:
-      - 
-      - 
-      flowUIDs: []
-      nodeValues:
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|0
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|1
-    - fullName: Variable_SystemSingle
-      uid: bb41b437-56e6-4f4d-aba2-a89bd4e0763d
-      position: {x: 0, y: 0}
-      nodeUIDs:
-      - 
-      - 
-      - 
-      - 
-      - 
-      flowUIDs: []
-      nodeValues:
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|0,5
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Range
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
-          PublicKeyToken=b77a5c561934e089|True
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
-          PublicKeyToken=b77a5c561934e089|False
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
-    - fullName: Get_Variable
-      uid: e3d8ced6-58d3-4c66-b58f-97228812c83d
-      position: {x: 127, y: 780}
-      nodeUIDs:
-      - 
-      flowUIDs: []
-      nodeValues:
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|bb41b437-56e6-4f4d-aba2-a89bd4e0763d
-      - unityObjectValue: {fileID: 0}
-        stringValue: 
-    - fullName: SystemSingle.__op_LessThan__SystemSingle_SystemSingle__SystemBoolean
-      uid: f08e9c3e-d36a-454f-abaf-776221028475
-      position: {x: 240, y: 589}
-      nodeUIDs:
-      - 40d1e311-8c02-4189-9e9b-b0f2dddc7412|0
-      - e3d8ced6-58d3-4c66-b58f-97228812c83d|0
-      flowUIDs: []
-      nodeValues:
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|0
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|0
-    - fullName: Branch
-      uid: bdacd33b-0458-421c-8536-8fe0dfc78ca8
-      position: {x: 486, y: 430}
-      nodeUIDs:
-      - f08e9c3e-d36a-454f-abaf-776221028475|0
-      flowUIDs:
       - aa368523-0b92-4e55-bfe8-16f7301949e9
-      nodeValues:
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
-          PublicKeyToken=b77a5c561934e089|False
+      nodeValues: []
     updateOrder: 0
   graphElementData: []
   version: 1.0.0
