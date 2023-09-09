@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 2
+  m_Name: 20-PoslednieGondoliWaterDown
   m_Speed: -1
   m_CycleOffset: 0
   m_Transitions:
@@ -21,8 +21,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 2936087011712589764, guid: 9cd76f54ddff85c4da910d49433263c2,
-    type: 3}
+  m_Motion: {fileID: 7400000, guid: f6b26f8e37b849d408ee54f1facca8fb, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -75,7 +74,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 1 0
+  m_Name: 20-PoslednieGondoliWaterWater
   m_Speed: 0.4
   m_CycleOffset: 0
   m_Transitions:
@@ -89,8 +88,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 4693140439261072694, guid: 9cd76f54ddff85c4da910d49433263c2,
-    type: 3}
+  m_Motion: {fileID: 7400000, guid: 388c35a391cfa4c49a2c2d7d8e8234c7, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -230,16 +228,16 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 8739261942625305233}
-    m_Position: {x: -150, y: 520, z: 0}
+    m_Position: {x: -120, y: 330, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7618168014501111336}
-    m_Position: {x: 170, y: 410, z: 0}
+    m_Position: {x: 160, y: 330, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7112189514978865191}
     m_Position: {x: 30, y: 210, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7019311812721538943}
-    m_Position: {x: 100, y: 500, z: 0}
+    m_Position: {x: 20, y: 420, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -309,7 +307,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 0
+  m_Name: 20-PoslednieGondoliWaterUp_start
   m_Speed: 0
   m_CycleOffset: 0
   m_Transitions:
@@ -323,8 +321,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 2936087011712589764, guid: 9cd76f54ddff85c4da910d49433263c2,
-    type: 3}
+  m_Motion: {fileID: 7400000, guid: f6b26f8e37b849d408ee54f1facca8fb, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -359,7 +356,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 1
+  m_Name: 20-PoslednieGondoliWaterUp
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -373,8 +370,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 2936087011712589764, guid: 9cd76f54ddff85c4da910d49433263c2,
-    type: 3}
+  m_Motion: {fileID: 7400000, guid: f6b26f8e37b849d408ee54f1facca8fb, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
