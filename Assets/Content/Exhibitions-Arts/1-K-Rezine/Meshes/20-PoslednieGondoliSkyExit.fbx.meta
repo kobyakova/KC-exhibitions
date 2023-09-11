@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: f4cd4cbc2b27d92478a1716d3a56644f
+guid: 6667943d855752b4d852cf768a2a3400
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
   - first:
-      74: -6588641848321586813
-    second: 20-PoslednieGondoliPic
+      74: -4181536678740260377
+    second: 20-exitJump
   - first:
-      74: -7020309693451620300
-    second: 20-PoslednieGondoliPicBone|20-PoslednieGondoliSkyExit_boneAction
+      74: 73452319929199587
+    second: 20-exitFly
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -43,11 +43,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 20-PoslednieGondoliPic
-      takeName: 20-PoslednieGondoliPicBone|ArmatureAction.001
+      name: 20-exitJump
+      takeName: 20-PoslednieGondoliSkyExit_bone|20-PoslednieGondoliSkyExit_boneAction
       internalID: 0
       firstFrame: 0
-      lastFrame: 80
+      lastFrame: 10
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -55,6 +55,35 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 20-exitFly
+      takeName: 20-PoslednieGondoliSkyExit_bone|20-PoslednieGondoliSkyExit_boneAction
+      internalID: 0
+      firstFrame: 12
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -81,7 +110,7 @@ ModelImporter:
     sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
+    importCameras: 0
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0

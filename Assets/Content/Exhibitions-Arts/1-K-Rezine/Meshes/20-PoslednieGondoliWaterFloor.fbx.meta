@@ -1,20 +1,20 @@
 fileFormatVersion: 2
-guid: f4cd4cbc2b27d92478a1716d3a56644f
+guid: 9cd76f54ddff85c4da910d49433263c2
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
   - first:
-      74: -6588641848321586813
-    second: 20-PoslednieGondoliPic
+      74: 2936087011712589764
+    second: WF_up
   - first:
-      74: -7020309693451620300
-    second: 20-PoslednieGondoliPicBone|20-PoslednieGondoliSkyExit_boneAction
+      74: 4693140439261072694
+    second: WF_loop
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 20-PoslednieGondoliPic_mat
-    second: {fileID: 2100000, guid: b5c19df1514803141adc9b327139f9ed, type: 2}
+      name: 20-PoslednieGondoliWater_mat
+    second: {fileID: 2100000, guid: 2b38169233eb31d49b877849e4cc1aeb, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -43,11 +43,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 20-PoslednieGondoliPic
-      takeName: 20-PoslednieGondoliPicBone|ArmatureAction.001
+      name: WF_up
+      takeName: 20-PoslednieGondoliWaterFloorBone|ArmatureAction.002
       internalID: 0
       firstFrame: 0
-      lastFrame: 80
+      lastFrame: 20
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -55,6 +55,35 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WF_loop
+      takeName: 20-PoslednieGondoliWaterFloorBone|ArmatureAction.002
+      internalID: 0
+      firstFrame: 30
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

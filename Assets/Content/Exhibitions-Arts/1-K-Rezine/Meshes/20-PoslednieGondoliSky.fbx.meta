@@ -1,20 +1,33 @@
 fileFormatVersion: 2
-guid: f4cd4cbc2b27d92478a1716d3a56644f
+guid: 02575f79a3f9edc4cab19e0209656ace
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
   - first:
-      74: -6588641848321586813
-    second: 20-PoslednieGondoliPic
+      74: 4673076465305197199
+    second: 20-PoslednieGondoliSkyBone|ArmatureAction
   - first:
-      74: -7020309693451620300
-    second: 20-PoslednieGondoliPicBone|20-PoslednieGondoliSkyExit_boneAction
+      74: -2867580793133442479
+    second: 20-PoslednieGondoliSkyBone|ArmatureAction.001
+  - first:
+      74: 8638443992898574131
+    second: 20-PoslednieGondoliSkyBone|ArmatureAction.002
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 20-PoslednieGondoliPic_mat
     second: {fileID: 2100000, guid: b5c19df1514803141adc9b327139f9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20-PoslednieGondoliSky_mat
+    second: {fileID: 2100000, guid: 7e9305b6ae012ff459a88622558b305a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20-PoslednieGondoliWater_mat
+    second: {fileID: 2100000, guid: 2b38169233eb31d49b877849e4cc1aeb, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -43,18 +56,18 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 20-PoslednieGondoliPic
-      takeName: 20-PoslednieGondoliPicBone|ArmatureAction.001
+      name: 20-PoslednieGondoliSkyBone|ArmatureAction
+      takeName: 20-PoslednieGondoliSkyBone|ArmatureAction
       internalID: 0
       firstFrame: 0
-      lastFrame: 80
+      lastFrame: 98
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -76,7 +89,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
