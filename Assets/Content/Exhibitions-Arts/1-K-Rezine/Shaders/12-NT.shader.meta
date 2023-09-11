@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 814df7151b514214ba26177f25d0296c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _7LunnayaPrica_nrm: {fileID: 2800000, guid: 002f67ce88dcbee448de15f3efbb92a2,
+      type: 3}
+  - _7LunnayaPrica_Albedo: {fileID: 2800000, guid: d581ed76f97e5d742b87abb878827042,
+      type: 3}
+  - _7Smooth: {fileID: 2800000, guid: 3f4d77a04fa576d48b19093e8f43821e, type: 3}
+  - _7LunnayaPrica_AO: {fileID: 2800000, guid: 3f99457902e64dc4b90221199b1887ae, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
