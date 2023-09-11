@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c92132a395ebf5743a7c7a3a8fb19439
+guid: 96982e06c5189f546a4f7bb63a0f6a37
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -7,7 +7,7 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material
+      name: Katran
     second: {fileID: 2100000, guid: 4a136de86aef26347bd0c133a432a2f6, type: 2}
   materials:
     materialImportMode: 1
@@ -89,11 +89,11 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0
