@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 20-PoslednieGondoliSkyAnimPlayExit
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 1e93356315ec9984a8c2d7fc92e7052d,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 8c3b627636780c54888f11f90822a778,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Anim_01\r\n    \r\n    __Boolean_0:
     %SystemBoolean, null\r\n    __instance_0: %VRCSDKBaseVRCPlayerApi, null\r\n   
