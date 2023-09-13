@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 20-PoslednieGondoliTeleport
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 39b4b72f92c81684fa04fb82a8c1744c,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: bb66b18cc8ec6194eb0e93dffc408e01,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export SpawnPlayer\r\n    .export SpawnRotator\r\n   
     \r\n    __instance_0: %VRCSDKBaseVRCPlayerApi, null\r\n    __teleportPos_0: %UnityEngineVector3,
