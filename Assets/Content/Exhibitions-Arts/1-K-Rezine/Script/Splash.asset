@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Splash
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 291170fc59efe7d499b1431759771bdc,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: e89fda38c7054ce4e9addf1c7bcc8078,
     type: 2}
   udonAssembly: 
   assemblyError: 
