@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LangTexture
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 82c88b4f4a81fa7408afcb7170aa7c51,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 06428179dcd209247972aef87f2d81c6,
     type: 2}
   udonAssembly: 
   assemblyError: 
