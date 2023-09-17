@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LangTextMeshPro
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3357a12c23b614944a5362c75779545a,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 6dedf707f2424ca4e843947cb8e46c96,
     type: 2}
   udonAssembly: 
   assemblyError: 
