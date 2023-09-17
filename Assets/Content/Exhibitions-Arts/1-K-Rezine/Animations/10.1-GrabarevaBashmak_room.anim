@@ -888,4 +888,20 @@ AnimationClip:
     script: {fileID: 0}
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.16666667
+    functionName: SendCustomEvent
+    data: BoolAnimOn
+    objectReferenceParameter: {fileID: 11500000, guid: 57059025780c1a3489f054adf0a00589,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 12.383333
+    functionName: SendCustomEvent
+    data: BoolAnimOff
+    objectReferenceParameter: {fileID: 11500000, guid: 57059025780c1a3489f054adf0a00589,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
