@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
-  m_Name: AnimPlayColl
+  m_Name: 20-PoslednieGondoliPicAnimPlay
   m_EditorClassIdentifier: 
   serializedUdonProgramAsset: {fileID: 11400000, guid: 47e6f4fbbfe52a949b84e579cc3faf8c,
     type: 2}
