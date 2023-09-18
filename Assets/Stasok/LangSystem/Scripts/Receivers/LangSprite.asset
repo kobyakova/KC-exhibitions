@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LangSprite
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 7acb4c2f4498d8e4aaaaa6d84a4cf933,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 04aee07ac57ab1242946c56df398b9c7,
     type: 2}
   udonAssembly: 
   assemblyError: 

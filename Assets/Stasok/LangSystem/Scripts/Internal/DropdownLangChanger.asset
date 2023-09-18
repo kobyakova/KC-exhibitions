@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: DropdownLangChanger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: cc91c6ac4225e7a42a8891576b982887,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 1b9f15e28d3dfb44e9418054530bde6f,
     type: 2}
   udonAssembly: 
   assemblyError: 
