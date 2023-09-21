@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 25dd2c889b6871248b5999c837066a5f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -8871564325026151479
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: -1778632183614385926
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: -7250199644408476791
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: -6313464122411089714
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: -2702961000089453752
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: 3081900406286739947
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: -6641602854408127197
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: -403512366786470327
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -4435060110680913283
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -5319400920160307179
+    second: 6-1-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: -7584401956163462071
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 5371335709231839603
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: 8918634283272027198
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: 3936425537240149483
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: 7108242455756509774
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -3265018279976187436
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: 495428158387038726
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: -8185419088058343787
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: 5967526512210199375
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: 6828117888521756992
+    second: 6-2-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: -4400808961284413929
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 325233834396670192
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: -8397490267719647939
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: -2483414035670749023
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: 9067968481796112502
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -2536914681779401530
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: 4429812572919112322
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: -1953572563385624502
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -7400446186386641818
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -2933957893843769771
+    second: 6-3-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: 7494809290721960193
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: -7540088522673388458
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: 6934796690176875787
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: -7635660286212580419
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: -6953591378282687029
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: 3950610546387385538
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: -1536163583500742684
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: -8199374402019763493
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -8041322052135966733
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -8381325258667893129
+    second: 6-4-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: 520182577982231702
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 8356518427065312679
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: 1621087667899420502
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: 6799487554365270497
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: -6090187668509906044
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -3743075800879292239
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: -5476658495024855637
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: -651873438553418857
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -1083269272419793638
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -502978097589111893
+    second: 6-5-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: 2343759323079514592
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 3483337753803055029
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: 1429020088588163321
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: 7533039172793537906
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: 6647816299847628996
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -1022331455937574641
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: 6687370090510352930
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: 1960427566891854276
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -5501418204224224896
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -8700034798882506757
+    second: 6-6-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: -5373038233652973664
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 4670150637334621968
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: 7775666039116636853
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: 519026074722308308
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: 5277010294507084634
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -6158013062908883981
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: 4864019706426434516
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: -2866197253690766083
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: 5500619886445384386
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -190239000677413381
+    second: 6-7-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: 4953622533790273233
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 826203427207123414
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: -8772445713997341493
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: 3951132331723351081
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: 1408543333627813836
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -602639996818063335
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: 9029267915068352437
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: 7437317490690299458
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -2602826893643132690
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: 1625457102637156131
+    second: 6-8-Kazimov|rags_low|Take 001|BaseLayer.009
+  - first:
+      74: -1515283025732927618
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer
+  - first:
+      74: 1886127309840905434
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.001
+  - first:
+      74: 2187601604097097213
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.002
+  - first:
+      74: 966837270611362932
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.003
+  - first:
+      74: 7303155864392088973
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.004
+  - first:
+      74: -1939347038210078760
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.005
+  - first:
+      74: 8971632752118171858
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.006
+  - first:
+      74: 8386183315603220393
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.007
+  - first:
+      74: -6493043759808111541
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.008
+  - first:
+      74: -7239528070169831718
+    second: 6-9-Kazimov|rags_low|Take 001|BaseLayer.009
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
