@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Bashmak_Anim
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: f370b0723d626414ebfe49075aa03bbf,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 8967d403fe235b844855cba2b38edcdc,
     type: 2}
   udonAssembly: 
   assemblyError: 
