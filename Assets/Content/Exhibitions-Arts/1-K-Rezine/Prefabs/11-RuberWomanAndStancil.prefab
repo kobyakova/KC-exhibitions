@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4021558749241176769}
   m_Layer: 0
-  m_Name: RuberWomanAndStancil
+  m_Name: 11-RuberWomanAndStancil
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47,7 +47,6 @@ GameObject:
   - component: {fileID: 4021558750691115371}
   - component: {fileID: 4021558750691115375}
   - component: {fileID: 4021558750691115374}
-  - component: {fileID: 4021558750691115373}
   - component: {fileID: 4021558750691115372}
   m_Layer: 4
   m_Name: Glow
@@ -55,7 +54,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4021558750691115371
 Transform:
   m_ObjectHideFlags: 0
@@ -117,23 +116,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!114 &4021558750691115373
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4021558750691115370}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sharedProfile: {fileID: 11400000, guid: f58d8e3b8a60bca4c800c30216fcf8d7, type: 2}
-  isGlobal: 0
-  blendDistance: 1
-  weight: 1
-  priority: 1
 --- !u!65 &4021558750691115372
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -257,8 +239,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e104a3334f0370f458a77aa29dfdedb7,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 2484715098436952366, guid: bca42b15f44d009438fe864059a33b9d,
         type: 3}
       propertyPath: serializationData.Prefab
@@ -269,8 +250,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e104a3334f0370f458a77aa29dfdedb7,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 4059307407528780274, guid: bca42b15f44d009438fe864059a33b9d,
         type: 3}
       propertyPath: m_RootOrder
@@ -682,8 +662,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e104a3334f0370f458a77aa29dfdedb7,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 3796188892460818745, guid: e212cb8fd68006e4ba9e2acd17ae5c3b,
         type: 3}
       propertyPath: m_RootOrder
@@ -768,8 +747,7 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e104a3334f0370f458a77aa29dfdedb7,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 5402127335779907435, guid: e212cb8fd68006e4ba9e2acd17ae5c3b,
         type: 3}
       propertyPath: serializationData.Prefab
@@ -887,14 +865,12 @@ PrefabInstance:
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e104a3334f0370f458a77aa29dfdedb7,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 8757105505099735154, guid: ee1df4de6db98224abfec5969dbee901,
         type: 3}
       propertyPath: serializedProgramAsset
       value: 
-      objectReference: {fileID: 11400000, guid: e104a3334f0370f458a77aa29dfdedb7,
-        type: 2}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee1df4de6db98224abfec5969dbee901, type: 3}
 --- !u!4 &1124489182405885148 stripped
