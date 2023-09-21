@@ -6,6 +6,9 @@ ModelImporter:
   - first:
       74: 4781951162920444690
     second: Armature|ArmatureAction
+  - first:
+      74: -1355430776829090966
+    second: 15-Sikorski-Shina_Bone|ArmatureAction
   externalObjects:
   - first:
       type: UnityEngine:Material
