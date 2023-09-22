@@ -1,6 +1,12 @@
 fileFormatVersion: 2
-guid: 8cc46f68c0cc0834b90e306324671808
+<<<<<<<< HEAD:Assets/Content/Exhibitions-Arts/2-VNP/Prefabs/18-Katran 1.prefab.meta
+guid: 6a1b8b92b3421294d81626c0c508433a
 PrefabImporter:
+========
+guid: 9b4bada8f7845184c91a5a0a1232f962
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> main:Assets/Scenes/Scene-Ex-K-Rezine-Nikola_Profiles.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
