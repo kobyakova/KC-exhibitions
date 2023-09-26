@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 3.4-Biite
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: fc8d6a08a00344544a84f851bbfc46f0,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 392614e5f34ee9347845bf977bb5943d,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Anim\r\n    .export Kapkan\r\n   
     .export Range\r\n    \r\n    __Boolean_0: %SystemBoolean, null\r\n    __Single_0:
