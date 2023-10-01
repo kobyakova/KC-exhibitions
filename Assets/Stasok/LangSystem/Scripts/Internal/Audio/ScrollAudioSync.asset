@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ScrollAudioSync
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: e1ec2aed90680ed4abf5ae9f388371bd,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 382c8bb0100fd6a44b1ea3a6150befe3,
     type: 2}
   udonAssembly: 
   assemblyError: 
