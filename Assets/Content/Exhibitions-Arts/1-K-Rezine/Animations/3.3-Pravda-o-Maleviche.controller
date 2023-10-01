@@ -38,7 +38,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 2420464648565756574}
-    m_Position: {x: 200, y: 0, z: 0}
+    m_Position: {x: 250, y: 20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2978302417654675879}
     m_Position: {x: 450, y: 280, z: 0}
@@ -61,8 +61,8 @@ AnimatorController:
   m_Name: 3.3-Pravda-o-Maleviche
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: IsInteract
-    m_Type: 4
+  - m_Name: Tap
+    m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
@@ -138,7 +138,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: IsInteract
+    m_ConditionEvent: Tap
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2978302417654675879}
