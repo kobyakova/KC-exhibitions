@@ -16,6 +16,9 @@ namespace Stasok.LocalVideoPlayer
         public bool RemoveTriggerRenderers = true;
         [Space(8)]
         public SmoothVolumeChanger SmoothVolumeChanger;
+
+        public VideoPlayerTrigger lastPlayerTrigger;
+
         [Space(8)]
         [SerializeField] private bool sync = false;
         [SerializeField] private bool loop = true;

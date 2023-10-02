@@ -218,6 +218,7 @@ MonoBehaviour:
   audioTargetPoint: {fileID: 8592933826885213726}
   volumeTargetPoint: {fileID: 790998003400451859}
   accessDeniedTargetPoint: {fileID: 4743139143742211527}
+  deactivateOnExit: 0
 --- !u!114 &8599856196680043672
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -19,6 +19,8 @@ namespace Stasok.LocalVideoPlayer
         [SerializeField] private Transform audioTargetPoint;
         [SerializeField] private Transform volumeTargetPoint;
         [SerializeField] private Transform accessDeniedTargetPoint;
+        [Space(16)]
+        [SerializeField] private bool deactivateOnExit = false;
 
         private SmoothVolumeChanger _smoothVolumeChanger;
 
@@ -34,22 +36,37 @@ namespace Stasok.LocalVideoPlayer
             if (rendererVideoRecipient) rendererVideoRecipient.enabled = false;
         }
 
-        public override void OnPlayerTriggerEnter(VRCPlayerApi player) => HandleTrigger(player, true);
-        public override void OnPlayerTriggerExit(VRCPlayerApi player) => HandleTrigger(player, false);
+        public override void OnPlayerTriggerEnter(VRCPlayerApi player) => HandleTrigger(player, true, false);
+        public override void OnPlayerTriggerExit(VRCPlayerApi player) => HandleTrigger(player, false, false);
 
-        private void HandleTrigger(VRCPlayerApi player, bool transitionState)
+        public void HandleTrigger(VRCPlayerApi player, bool transitionState, bool externalCall)
         {
             if (!player.isLocal) return;
 
+            if (!deactivateOnExit && !externalCall)
+                transitionState = true;
+
             if (transitionState)
             {
+                if (!externalCall)
+                {
+                    if (videoPlayer.lastPlayerTrigger && videoPlayer.lastPlayerTrigger != this)
+                        videoPlayer.lastPlayerTrigger.HandleTrigger(Networking.LocalPlayer, false, true);
+
+                    videoPlayer.lastPlayerTrigger = this;
+                }
+
                 if (audioTargetPoint) _smoothVolumeChanger.AudioSource.transform.CopyPosAndRot(audioTargetPoint);
                 if (volumeTargetPoint) _smoothVolumeChanger.UIVolumeSetting.transform.CopyPosAndRot(volumeTargetPoint);
                 if (accessDeniedTargetPoint) videoPlayer.ErrAccessDenied.transform.CopyPosAndRot(accessDeniedTargetPoint);
 
                 videoPlayer.PlayURL(URL);
             }
-            else videoPlayer.SmoothPause();
+            else
+            {
+                if (deactivateOnExit)
+                    videoPlayer.SmoothPause();
+            }
 
             if (volumeTargetPoint) _smoothVolumeChanger.UIVolumeSetting.gameObject.SetActive(transitionState);
             if (rendererVideoRecipient) rendererVideoRecipient.enabled = transitionState;
