@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Content/Main-Content/Materials/Test.meta
+guid: aef28bf6d74aa5e49aa55c27a34d4631
+========
+guid: f1e7e49776652c34cb7ebe3d284b6c04
+>>>>>>>> main:Assets/Content/Main-Content/Prefabs/Ex-1.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
