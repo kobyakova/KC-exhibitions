@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LangAudio
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 7db704a239094304fae120385ad784b9,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: bd0a373ce1c233a41b4238584f173c1f,
     type: 2}
   udonAssembly: 
   assemblyError: 

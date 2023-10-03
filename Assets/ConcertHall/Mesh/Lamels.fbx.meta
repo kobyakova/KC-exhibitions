@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: db98dd4cf0eee2e46b56f520cdd0b1c3
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 5678713951433113380
+    second: MovingWave|Armature.001Action.004
+  - first:
+      74: -8664421122118947305
+    second: MovingWave|Box1867.015Action.001
+  - first:
+      74: 6495860814467522088
+    second: MovingWave|Box1867.032Action.002
+  - first:
+      74: -5394286041602652666
+    second: MovingWave|Box1867.032Action.003
+  - first:
+      74: 307849887521152030
+    second: MovingWave|Box1867.034Action.004
+  - first:
+      74: -8269629600887386599
+    second: MovingWave|Box1867.034Action.005
+  - first:
+      74: -3590564168572297897
+    second: MovingWave|Box1867.034Action.006
+  - first:
+      74: -7402692205006817466
+    second: MovingWave|Box1867.034Action.007
+  - first:
+      74: -194178830519227438
+    second: MovingWave|Box1867.038Action.001
+  - first:
+      74: 2341319840657591729
+    second: MovingWave|Box1867.039Action.001
+  - first:
+      74: -8765035600941228941
+    second: MovingWave|Box1867Action.010
+  - first:
+      74: 89570366534401203
+    second: MovingWave|Box1867Action.011
+  - first:
+      74: -4874351665380956570
+    second: MovingWave|Box1889.012Action.002
+  - first:
+      74: 6253576373396291805
+    second: MovingWave|Box1889.012Action.003
+  - first:
+      74: -3851444728340803193
+    second: MovingWave|Box1889.036Action.001
+  - first:
+      74: -4552785957295706757
+    second: MovingWave|Box1889Action
+  - first:
+      74: -5042297414010242416
+    second: MovingWave|Box1889Action.011
+  - first:
+      74: 50424434388388530
+    second: MovingWave|Box1889Action.013
+  - first:
+      74: 8001645658801086233
+    second: MovingWave|Box1889Action.014
+  - first:
+      74: 4913048733633733063
+    second: MovingWave|LatticeAction
+  - first:
+      74: 8189357830207639198
+    second: MovingWave|PlaneAction
+  - first:
+      74: 4742850588279743152
+    second: MovingWave|RibbedWall2ndFloorAction.001
+  - first:
+      74: -7204718053334599495
+    second: "MovingWave|\u0413\u0440\u0443\u043F\u043F\u0430#15 [1318136]Action"
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SmoothVolumeChanger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3d5526e43a860c945aec71795d475b69,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 5252bdb7364628b4d87dda1cead79fd9,
     type: 2}
   udonAssembly: 
   assemblyError: 
