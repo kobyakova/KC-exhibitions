@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LangSystemProgressBar
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 838cb16cfd2ebf4449f0c673ac995ec1,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 246144409c54bac468c8b9c85fd04937,
     type: 2}
   udonAssembly: 
   assemblyError: 

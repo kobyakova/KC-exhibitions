@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: 3.5-TeleportByInteract
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 9006620f54fc7bd48b1be57f0c7e701b,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: dfaac43711038d14c9de752680feb4cf,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Target\r\n    \r\n    __instance_0:
     %VRCSDKBaseVRCPlayerApi, null\r\n    __teleportPos_0: %UnityEngineVector3, null\r\n   
