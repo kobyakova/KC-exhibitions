@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: e041b367c760b3f47932edf2b4854b40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6560217767505952367
+    second: KZ-Sprite-1_0
+  - first:
+      213: 1828819321911563316
+    second: KZ-Sprite-1_1
+  - first:
+      213: 7038951354693813803
+    second: KZ-Sprite-1_2
+  - first:
+      213: -4006747667681230672
+    second: KZ-Sprite-1_3
+  - first:
+      213: -3975125809753717946
+    second: KZ-Sprite-1_4
+  - first:
+      213: 7702383247780583841
+    second: KZ-Sprite-1_5
+  - first:
+      213: 741117798689408370
+    second: KZ-Sprite-1_6
+  - first:
+      213: -6677064487712979683
+    second: KZ-Sprite-1_7
+  - first:
+      213: 8612075582651638018
+    second: KZ-Sprite-1_8
+  - first:
+      213: -8811254785310681492
+    second: KZ-Sprite-1_9
+  - first:
+      213: -1785009923417280661
+    second: KZ-Sprite-1_10
+  - first:
+      213: 8080039700352039485
+    second: KZ-Sprite-1_11
+  - first:
+      213: -4909473905955618393
+    second: KZ-Sprite-1_12
+  - first:
+      213: -3777705104287885113
+    second: KZ-Sprite-1_13
+  - first:
+      213: 7863407937259857282
+    second: KZ-Sprite-1_14
+  - first:
+      213: -8209577969754892254
+    second: KZ-Sprite-1_15
+  - first:
+      213: -7196615016452092966
+    second: KZ-Sprite-1_16
+  - first:
+      213: -6460170808821736468
+    second: KZ-Sprite-1_17
+  - first:
+      213: 66139397172234977
+    second: KZ-Sprite-1_18
+  - first:
+      213: -551953295970327322
+    second: KZ-Sprite-1_19
+  - first:
+      213: 6233585296999045244
+    second: KZ-Sprite-1_20
+  - first:
+      213: -5317665774300622636
+    second: KZ-Sprite-1_21
+  - first:
+      213: 8107044384569737765
+    second: KZ-Sprite-1_22
+  - first:
+      213: 7346779022062085938
+    second: KZ-Sprite-1_23
+  - first:
+      213: 573726716334204616
+    second: KZ-Sprite-1_24
+  - first:
+      213: 5715852380726287246
+    second: KZ-Sprite-1_25
+  - first:
+      213: -2878444851370516157
+    second: KZ-Sprite-1_26
+  - first:
+      213: -5473807337382335285
+    second: KZ-Sprite-1_27
+  - first:
+      213: -5389325526228760489
+    second: KZ-Sprite-1_28
+  - first:
+      213: 4643418258072432511
+    second: KZ-Sprite-1_29
+  - first:
+      213: -2057082032152100191
+    second: KZ-Sprite-1_30
+  - first:
+      213: 6248068111764235663
+    second: KZ-Sprite-1_31
+  - first:
+      213: -3134116951139006933
+    second: KZ-Sprite-1_32
+  - first:
+      213: -5355104836933614869
+    second: KZ-Sprite-1_33
+  - first:
+      213: -8912224388152487132
+    second: KZ-Sprite-1_34
+  - first:
+      213: 6177829811679310343
+    second: KZ-Sprite-1_35
+  - first:
+      213: 7496636399273412643
+    second: KZ-Sprite-1_36
+  - first:
+      213: 8504771813665184910
+    second: KZ-Sprite-1_37
+  - first:
+      213: -7967946631895407991
+    second: KZ-Sprite-1_38
+  - first:
+      213: 3093713803768976536
+    second: KZ-Sprite-1_39
+  - first:
+      213: 311056233184173570
+    second: KZ-Sprite-1_40
+  - first:
+      213: -4076129113891578869
+    second: KZ-Sprite-1_41
+  - first:
+      213: 8711313163069348030
+    second: KZ-Sprite-1_42
+  - first:
+      213: 102590951148172268
+    second: KZ-Sprite-1_43
+  - first:
+      213: 7354542046937835269
+    second: KZ-Sprite-1_44
+  - first:
+      213: 1720637883645103117
+    second: KZ-Sprite-1_45
+  - first:
+      213: -5059139520843748569
+    second: KZ-Sprite-1_46
+  - first:
+      213: -6009987864000024178
+    second: KZ-Sprite-1_47
+  - first:
+      213: 7622211463764901079
+    second: KZ-Sprite-1_48
+  - first:
+      213: 460843706482873595
+    second: KZ-Sprite-1_49
+  - first:
+      213: -3678960837828493005
+    second: KZ-Sprite-1_50
+  - first:
+      213: -3664512983220427702
+    second: KZ-Sprite-1_51
+  - first:
+      213: 8813974121116801086
+    second: KZ-Sprite-1_52
+  - first:
+      213: 3629135613066086824
+    second: KZ-Sprite-1_53
+  - first:
+      213: -8931382058524648652
+    second: KZ-Sprite-1_54
+  - first:
+      213: -3485880612559176429
+    second: KZ-Sprite-1_55
+  - first:
+      213: 5058067819549731576
+    second: KZ-Sprite-1_56
+  - first:
+      213: -6173865020797914615
+    second: KZ-Sprite-1_57
+  - first:
+      213: -4925251273883267101
+    second: KZ-Sprite-1_58
+  - first:
+      213: 4235910596572458349
+    second: KZ-Sprite-1_59
+  - first:
+      213: -8879606652847100704
+    second: KZ-Sprite-1_60
+  - first:
+      213: 847680705176686241
+    second: KZ-Sprite-1_61
+  - first:
+      213: 5137877081117327884
+    second: KZ-Sprite-1_62
+  - first:
+      213: -2648637992138443990
+    second: KZ-Sprite-1_63
+  - first:
+      213: -88909997999093152
+    second: KZ-Sprite-1_64
+  - first:
+      213: 6319759091064768979
+    second: KZ-Sprite-1_65
+  - first:
+      213: 342532612571962973
+    second: KZ-Sprite-1_66
+  - first:
+      213: 3807600768815530300
+    second: KZ-Sprite-1_67
+  - first:
+      213: -7583066725152357245
+    second: KZ-Sprite-1_68
+  - first:
+      213: -183405067227687173
+    second: KZ-Sprite-1_69
+  - first:
+      213: 8524302755024527212
+    second: KZ-Sprite-1_70
+  - first:
+      213: -7256522765967504513
+    second: KZ-Sprite-1_71
+  - first:
+      213: -7688081061674529432
+    second: KZ-Sprite-1_72
+  - first:
+      213: 7913762780436093231
+    second: KZ-Sprite-1_73
+  - first:
+      213: 3143722103522289363
+    second: KZ-Sprite-1_74
+  - first:
+      213: 7147798551191754610
+    second: KZ-Sprite-1_75
+  - first:
+      213: 3794528319866437547
+    second: KZ-Sprite-1_76
+  - first:
+      213: -8753445440752069417
+    second: KZ-Sprite-1_77
+  - first:
+      213: -4239031498392578327
+    second: KZ-Sprite-1_78
+  - first:
+      213: 338560218495336429
+    second: KZ-Sprite-1_79
+  - first:
+      213: -2315222432453315301
+    second: KZ-Sprite-1_80
+  - first:
+      213: -2607370384749952302
+    second: KZ-Sprite-1_81
+  - first:
+      213: -8019104707578272623
+    second: KZ-Sprite-1_82
+  - first:
+      213: -8605986462915654006
+    second: KZ-Sprite-1_83
+  - first:
+      213: 1828319515391865278
+    second: KZ-Sprite-1_84
+  - first:
+      213: 4660668820134053339
+    second: KZ-Sprite-1_85
+  - first:
+      213: -1433187596554176016
+    second: KZ-Sprite-1_86
+  - first:
+      213: -3049132179522230949
+    second: KZ-Sprite-1_87
+  - first:
+      213: -6299090916936753656
+    second: KZ-Sprite-1_88
+  - first:
+      213: -2713392872715220252
+    second: KZ-Sprite-1_89
+  - first:
+      213: 2763872554227253992
+    second: KZ-Sprite-1_90
+  - first:
+      213: 2239923862364538612
+    second: KZ-Sprite-1_91
+  - first:
+      213: -4307311372361887494
+    second: KZ-Sprite-1_92
+  - first:
+      213: -8617715975007901517
+    second: KZ-Sprite-1_93
+  - first:
+      213: -4636081474815145215
+    second: KZ-Sprite-1_94
+  - first:
+      213: -6266709830976774180
+    second: KZ-Sprite-1_95
+  - first:
+      213: -1478783401469188668
+    second: KZ-Sprite-1_96
+  - first:
+      213: -1652680057507452449
+    second: KZ-Sprite-1_97
+  - first:
+      213: 1265167033241211937
+    second: KZ-Sprite-1_98
+  - first:
+      213: 3682004122739093052
+    second: KZ-Sprite-1_99
+  - first:
+      213: -6703411359103951034
+    second: KZ-Sprite-1_100
+  - first:
+      213: -4441232153127117022
+    second: KZ-Sprite-1_101
+  - first:
+      213: -3514315882588814605
+    second: KZ-Sprite-1_102
+  - first:
+      213: -8936293914389990728
+    second: KZ-Sprite-1_103
+  - first:
+      213: -8883665759184089194
+    second: KZ-Sprite-1_104
+  - first:
+      213: -6495575536378975064
+    second: KZ-Sprite-1_105
+  - first:
+      213: 4686147592725239373
+    second: KZ-Sprite-1_106
+  - first:
+      213: -6566189513869128948
+    second: KZ-Sprite-1_107
+  - first:
+      213: -2364635800615761888
+    second: KZ-Sprite-1_108
+  - first:
+      213: 6129959966005735248
+    second: KZ-Sprite-1_109
+  - first:
+      213: -8659828579510758895
+    second: KZ-Sprite-1_110
+  - first:
+      213: -8773337883470237114
+    second: KZ-Sprite-1_111
+  - first:
+      213: 9045749164960624776
+    second: KZ-Sprite-1_112
+  - first:
+      213: -8786619079188307399
+    second: KZ-Sprite-1_113
+  - first:
+      213: 3500850007426566892
+    second: KZ-Sprite-1_114
+  - first:
+      213: -4659876788153826059
+    second: KZ-Sprite-1_115
+  - first:
+      213: 8104876735531601040
+    second: KZ-Sprite-1_116
+  - first:
+      213: -1690202123881313642
+    second: KZ-Sprite-1_117
+  - first:
+      213: -82918678148856581
+    second: KZ-Sprite-1_118
+  - first:
+      213: 4502498989030794863
+    second: KZ-Sprite-1_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KZ-Sprite-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef5615d439a0b50800000000000000
+      internalID: 6560217767505952367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434d8e8db75416910800000000000000
+      internalID: 1828819321911563316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2687cf86f06fa160800000000000000
+      internalID: 7038951354693813803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b04c33993c2568c0800000000000000
+      internalID: -4006747667681230672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_4
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643842c132485d8c0800000000000000
+      internalID: -3975125809753717946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_5
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a991ef31cc54ea60800000000000000
+      internalID: 7702383247780583841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750a9716baf84a00800000000000000
+      internalID: 741117798689408370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3822.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d150e7b993d4653a0800000000000000
+      internalID: -6677064487712979683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20124ca1d1d348770800000000000000
+      internalID: 8612075582651638018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669810f47228b580800000000000000
+      internalID: -8811254785310681492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6a2a9eee5a37e0800000000000000
+      internalID: -1785009923417280661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a798e2c41122070800000000000000
+      internalID: 8080039700352039485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_12
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a147797e7b0edbb0800000000000000
+      internalID: -4909473905955618393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89db80935e29bc0800000000000000
+      internalID: -3777705104287885113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_14
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2856c585bdf602d60800000000000000
+      internalID: 7863407937259857282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_15
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3549.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22813ec2558b11e80800000000000000
+      internalID: -8209577969754892254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb812795cc702c90800000000000000
+      internalID: -7196615016452092966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb15d770ecd856a0800000000000000
+      internalID: -6460170808821736468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea0c1a6e69fae000800000000000000
+      internalID: 66139397172234977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e42515d6611758f0800000000000000
+      internalID: -551953295970327322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_20
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d9b8fcc4228650800000000000000
+      internalID: 6233585296999045244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_21
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01f88072bd336b0800000000000000
+      internalID: -5317665774300622636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522ca903ae1028070800000000000000
+      internalID: 8107044384569737765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_23
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3276.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2376d4d789005f560800000000000000
+      internalID: 7346779022062085938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66045a86946f700800000000000000
+      internalID: 573726716334204616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd2c5d479c25f40800000000000000
+      internalID: 5715852380726287246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341228888a5bd08d0800000000000000
+      internalID: -2878444851370516157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc26666a312904b0800000000000000
+      internalID: -5473807337382335285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_28
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758803edcf44535b0800000000000000
+      internalID: -5389325526228760489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_29
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f68f7cd4cb07040800000000000000
+      internalID: 4643418258072432511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_30
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24cb76ac6c373e0800000000000000
+      internalID: -2057082032152100191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_31
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3003.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85272e08d895b650800000000000000
+      internalID: 6248068111764235663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2644dafc316184d0800000000000000
+      internalID: -3134116951139006933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2889bf588dea5b0800000000000000
+      internalID: -5355104836933614869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4231991532b615480800000000000000
+      internalID: -8912224388152487132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b6ff6b7f0cb550800000000000000
+      internalID: 6177829811679310343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_36
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32884f41617690860800000000000000
+      internalID: 7496636399273412643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_37
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c944187e4070670800000000000000
+      internalID: 8504771813665184910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982aa9811ca2c6190800000000000000
+      internalID: -7967946631895407991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_39
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 2730.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8945f5630541fea20800000000000000
+      internalID: 3093713803768976536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1d1cfef7115400800000000000000
+      internalID: 311056233184173570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5ddbca2eae67c0800000000000000
+      internalID: -4076129113891578869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8dee3da2dc4e870800000000000000
+      internalID: 8711313163069348030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_43
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce33b503de97c6100800000000000000
+      internalID: 102590951148172268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_44
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50767619605901660800000000000000
+      internalID: 7354542046937835269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_45
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0fb1f90fe0e710800000000000000
+      internalID: 1720637883645103117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_46
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be7f609635ac9b0800000000000000
+      internalID: -5059139520843748569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_47
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 2457.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81bed541eb389ca0800000000000000
+      internalID: -6009987864000024178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfd9c21f887c960800000000000000
+      internalID: 7622211463764901079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d2edc8ee356600800000000000000
+      internalID: 460843706482873595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_50
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c8a62c94b1fcc0800000000000000
+      internalID: -3678960837828493005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_51
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e6507bd8052dc0800000000000000
+      internalID: -3664512983220427702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_52
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3817a4c3c6815a70800000000000000
+      internalID: 8813974121116801086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_53
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a90682bc974d5230800000000000000
+      internalID: 3629135613066086824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_54
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5758965b5d0480800000000000000
+      internalID: -8931382058524648652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_55
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 2184.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d3df64d0aaf9fc0800000000000000
+      internalID: -3485880612559176429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa81212edd13640800000000000000
+      internalID: 5058067819549731576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90271206976025aa0800000000000000
+      internalID: -6173865020797914615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_58
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc5aebf0ef5abb0800000000000000
+      internalID: -4925251273883267101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da309ae3af8ca30800000000000000
+      internalID: 4235910596572458349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_60
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6adf9bcc45c480800000000000000
+      internalID: -8879606652847100704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_61
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae42033c1193cb00800000000000000
+      internalID: 847680705176686241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_62
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c028e9fcbf76d4740800000000000000
+      internalID: 5137877081117327884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_63
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1911.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23fbfb77c52e3bd0800000000000000
+      internalID: -2648637992138443990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8840f3d024cef0800000000000000
+      internalID: -88909997999093152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_65
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d906f8e86b44b750800000000000000
+      internalID: 6319759091064768979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9658a89be0c400800000000000000
+      internalID: 342532612571962973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_67
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3101c7c9b057d430800000000000000
+      internalID: 3807600768815530300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_68
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38485338df883c690800000000000000
+      internalID: -7583066725152357245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_69
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf613e5201a647df0800000000000000
+      internalID: -183405067227687173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_70
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fde1721386c4670800000000000000
+      internalID: 8524302755024527212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_71
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1638.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc8f5bdf6ab4b90800000000000000
+      internalID: -7256522765967504513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d4b72f1037e4590800000000000000
+      internalID: -7688081061674529432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d994e15553dd60800000000000000
+      internalID: 7913762780436093231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_74
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d66df4d89eb0ab20800000000000000
+      internalID: 3143722103522289363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_75
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27716d169e4123360800000000000000
+      internalID: 7147798551191754610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_76
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf7cc3176fd8a430800000000000000
+      internalID: 3794528319866437547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_77
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d537dfb3858680800000000000000
+      internalID: -8753445440752069417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_78
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e65e92cf4feb25c0800000000000000
+      internalID: -4239031498392578327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_79
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1365.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def3e7699bec2b400800000000000000
+      internalID: 338560218495336429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ba99d67daedfd0800000000000000
+      internalID: -2315222432453315301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d20b131372c0dbd0800000000000000
+      internalID: -2607370384749952302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_82
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194622861ca66b090800000000000000
+      internalID: -8019104707578272623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_83
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e871098e4619880800000000000000
+      internalID: -8605986462915654006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_84
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b8d299ee7f5910800000000000000
+      internalID: 1828319515391865278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_85
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd544df39950ea040800000000000000
+      internalID: 4660668820134053339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_86
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f974ea697b4c1ce0800000000000000
+      internalID: -1433187596554176016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_87
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1092.9333
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556d5e007e4fa5d0800000000000000
+      internalID: -3049132179522230949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e58106f222598a0800000000000000
+      internalID: -6299090916936753656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8bb5fe87185ad0800000000000000
+      internalID: -2713392872715220252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_90
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ca27c17f3b5620800000000000000
+      internalID: 2763872554227253992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_91
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6c82c92eec51f10800000000000000
+      internalID: 2239923862364538612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_92
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09e51c02b5934c0800000000000000
+      internalID: -4307311372361887494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_93
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e176baf8b76880800000000000000
+      internalID: -8617715975007901517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_94
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bcfdf267459afb0800000000000000
+      internalID: -4636081474815145215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_95
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 819.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5e267c9c2809a0800000000000000
+      internalID: -6266709830976774180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c56fafc45e4a7be0800000000000000
+      internalID: -1478783401469188668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd965e47e308019e0800000000000000
+      internalID: -1652680057507452449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_98
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12490eda6b6ce8110800000000000000
+      internalID: 1265167033241211937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_99
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e2365dd3b191330800000000000000
+      internalID: 3682004122739093052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_100
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f5a4592e2b8f2a0800000000000000
+      internalID: -6703411359103951034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_101
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f90db23e29d52c0800000000000000
+      internalID: -4441232153127117022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_102
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c7cd0354aa3fc0800000000000000
+      internalID: -3514315882588814605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_103
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 546.93335
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2bc480808ebf380800000000000000
+      internalID: -8936293914389990728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f08884f01e6b480800000000000000
+      internalID: -8883665759184089194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace966f6741bd5a0800000000000000
+      internalID: -6495575536378975064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_106
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469075486a880140800000000000000
+      internalID: 4686147592725239373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_107
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b8fe12d6530e4a0800000000000000
+      internalID: -6566189513869128948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_108
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028402984402f2fd0800000000000000
+      internalID: -2364635800615761888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_109
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f23257c1ef11550800000000000000
+      internalID: 6129959966005735248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_110
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125c76e9cb12d780800000000000000
+      internalID: -8659828579510758895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_111
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 273.93332
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64277499da7de3680800000000000000
+      internalID: -8773337883470237114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b3c860f4f88d70800000000000000
+      internalID: 9045749164960624776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_113
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932af404088af0680800000000000000
+      internalID: -8786619079188307399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_114
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea85909884859030800000000000000
+      internalID: 3500850007426566892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_115
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c00110cac45fb0800000000000000
+      internalID: -4659876788153826059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_116
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c40b1137e4a7070800000000000000
+      internalID: 8104876735531601040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_117
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a81779f123b88e0800000000000000
+      internalID: -1690202123881313642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_118
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf441bbc6e969def0800000000000000
+      internalID: -82918678148856581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KZ-Sprite-1_119
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0.9333191
+        width: 273.125
+        height: 273.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666cbaa9f61c7e30800000000000000
+      internalID: 4502498989030794863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b06a929f4fbe5aa4ba59449fb6b84d66
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
