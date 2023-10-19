@@ -8,8 +8,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 21-Ignatiew-Paper
-  m_Shader: {fileID: 10708, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
+  m_Shader: {fileID: 4800000, guid: 04c2a19a362d6224bb1fa5c81b38cd86, type: 3}
+  m_ShaderKeywords: VIGNETTE_MASKED _LIGHTINGMODE_FLAT _RIM2STYLE_POIYOMI _RIMSTYLE_POIYOMI
+    _STOCHASTICMODE_DELIOT_HEITZ
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -1613,13 +1614,13 @@ Material:
     - _LightingAddDetailShadowStrengthR: 1
     - _LightingAdditiveCastedShadows: 1
     - _LightingAdditiveEnable: 1
-    - _LightingAdditiveGradientEnd: 0.5
+    - _LightingAdditiveGradientEnd: 0.534
     - _LightingAdditiveGradientStart: 0
     - _LightingAdditiveLimit: 1
     - _LightingAdditiveLimited: 0
     - _LightingAdditiveMonochromatic: 0
     - _LightingAdditivePassthrough: 0.5
-    - _LightingAdditiveType: 0
+    - _LightingAdditiveType: 1
     - _LightingCap: 1
     - _LightingCapEnabled: 1
     - _LightingCastedShadows: 0
@@ -1639,7 +1640,7 @@ Material:
     - _LightingIndirectUsesNormals: 0
     - _LightingMapMode: 0
     - _LightingMinLightBrightness: 0
-    - _LightingMode: 6
+    - _LightingMode: 5
     - _LightingMonochromatic: 0
     - _LightingMulitlayerNonLinear: 1
     - _LightingShadowMaskStrengthA: 0
@@ -1653,7 +1654,7 @@ Material:
     - _LockTooltip: 0
     - _MainALHueShiftBand: 0
     - _MainALHueShiftCTIndex: 0
-    - _MainBrightness: 0
+    - _MainBrightness: 0.074
     - _MainBrightnessGlobalMask: 0
     - _MainBrightnessGlobalMaskBlendType: 2
     - _MainColorAdjustTextureUV: 0
@@ -2069,7 +2070,7 @@ Material:
     - _RimEnableLighting: 1
     - _RimEnviroBlur: 0.7
     - _RimEnviroChannel: 0
-    - _RimEnviroIntensity: 1
+    - _RimEnviroIntensity: 0.892
     - _RimEnviroMaskUV: 0
     - _RimEnviroMinBrightness: 0
     - _RimEnviroSharpness: 0
@@ -2115,7 +2116,7 @@ Material:
     - _SSSThicknessMapChannel: 0
     - _SSSThicknessMapUV: 0
     - _SSSThicknessMod: 0
-    - _Saturation: 0
+    - _Saturation: 0.52
     - _ScrollingEmission: 0
     - _ScrollingEmission1: 0
     - _ScrollingEmission2: 0
@@ -2127,7 +2128,7 @@ Material:
     - _Set_RimLightMaskChannel: 1
     - _Set_RimLightMaskUV: 0
     - _ShadeColor_Step: 0
-    - _ShaderOptimizerEnabled: 1
+    - _ShaderOptimizerEnabled: 0
     - _ShaderUIWarning0: -0
     - _ShaderUIWarning1: -0
     - _ShadingEnabled: 1
@@ -2524,7 +2525,7 @@ Material:
     - m_end_vertexManipulation: 0
     - m_end_videoEffects: 0
     - m_lightingCategory: 1
-    - m_mainCategory: 0
+    - m_mainCategory: 1
     - m_modifierCategory: 0
     - m_postprocessing: 0
     - m_renderingCategory: 1
